@@ -1,2 +1,2 @@
-# github-example
+# Github-example
 How to create and set-up an GitHub repository
